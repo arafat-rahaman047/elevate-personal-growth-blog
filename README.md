@@ -16,11 +16,11 @@ A professional personal blog system built using PHP, MySQL, and Bootstrap.
 - CSS
 
 ## Author
-Arafat Rahaman
+Arafat Rahaman <br>
 Roll No: 22CSE047
 
 ## Course info
-Course title: Web Engineering Lab
+Course title: Web Engineering Lab <br>
 Course code: CSE-2210
 
 ## Deployment
