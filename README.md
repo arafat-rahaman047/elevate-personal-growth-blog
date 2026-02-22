@@ -1,2 +1,23 @@
-# elevate-personal-growth-blog
-A PHP &amp; Bootstrap powered personal growth blog platform. Features include CRUD operations for posts, category-based browsing, admin dashboard for managing content, and a clean responsive UI. Designed for sharing articles on mindset, habits, productivity, and personal development.
+# Elevate - Personal Growth Blog System
+
+A professional personal blog system built using PHP, MySQL, and Bootstrap.
+
+## Features
+- Admin Login
+- Add/Edit/Delete Posts
+- Category Management
+- Modern Responsive UI
+- Secure Password Authentication
+
+## Technologies Used
+- PHP
+- MySQL
+- Bootstrap 5
+- CSS
+
+## Deployment
+Deployed on InfinityFree.
+
+## Author
+Arafat Rahman
+Web Engineering Lab Project
