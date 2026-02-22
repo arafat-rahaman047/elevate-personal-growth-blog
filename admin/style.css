@@ -1,0 +1,53 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #2e7d32, #66bb6a);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+}
+
+.login-card h3 {
+  font-weight: 600;
+  margin-bottom: 25px;
+  text-align: center;
+  color: #2e7d32;
+}
+
+.form-control {
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.btn-success {
+  border-radius: 30px;
+  padding: 10px;
+  font-weight: 500;
+}
+
+.brand {
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 30px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 123, 255, 0.05);
+  transition: all 0.3s ease;
+}
+
+.btn-group-sm .btn {
+  margin: 0 2px;
+}

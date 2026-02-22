@@ -1,0 +1,39 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f4fff6;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.btn-success {
+  border-radius: 25px;
+}
+
+.hero {
+  background: linear-gradient(135deg, #2e7d32, #66bb6a);
+  color: white;
+  padding: 60px;
+  border-radius: 15px;
+  text-align: center;
+}
+.slider-img {
+  height: 450px;
+  object-fit: cover;
+  filter: brightness(70%);
+}
+
+.carousel-caption {
+  bottom: 30%;
+}
+
+.carousel-caption h2 {
+  font-weight: 700;
+}
+
+.carousel-caption p {
+  font-size: 18px;
+}
